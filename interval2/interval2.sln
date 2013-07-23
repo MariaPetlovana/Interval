@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interval2", "interval2\interval2.csproj", "{47FD28B3-BFFB-4FF2-842D-7734B655C05E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestInterval", "UnitTestInterval\UnitTestInterval.csproj", "{63E50F37-CD9E-4AD6-9781-936A20ED1652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FD28B3-BFFB-4FF2-842D-7734B655C05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FD28B3-BFFB-4FF2-842D-7734B655C05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FD28B3-BFFB-4FF2-842D-7734B655C05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FD28B3-BFFB-4FF2-842D-7734B655C05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E50F37-CD9E-4AD6-9781-936A20ED1652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E50F37-CD9E-4AD6-9781-936A20ED1652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E50F37-CD9E-4AD6-9781-936A20ED1652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E50F37-CD9E-4AD6-9781-936A20ED1652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
